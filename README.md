@@ -1,0 +1,1 @@
+Simple script written to run off an Arduino board, to provide temperature from a temperature sensor to the current IO port. 
